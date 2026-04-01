@@ -1,7 +1,6 @@
 # COMP 3610 Assignment 3 - LLM-Powered Applications & Distributed Computing
 
 This notebook covers two parts: distributed data processing with PySpark, a RAG pipeline over TLC documents.
-Note: AI tools were used to assist with development. All code has been reviewed and understood.
 
 ## Requirements
 
